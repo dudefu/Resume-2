@@ -2,7 +2,7 @@
 
 # My Resume
 
-![](http://oe8r161mt.bkt.clouddn.com/resume/resume.jpg?imageView/2/w/200/q/100)
+![resume](http://oe8r161mt.bkt.clouddn.com/resume/resume.jpg?imageView/2/w/200/q/100)
 
 点击[这里](https://zelda.github.io/cv)可查看[Demo](https://zelda.github.io/cv)。
 
