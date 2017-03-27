@@ -19,6 +19,8 @@
 1. 先Star本项目，然后Clone或者直接下载到本地
 1. 修改index.html内相关信息
 1. 微调样式
+ - 调整样式需要修改`.components/*.scss`文件后编译生成`index.min.css`
+ - 在7.7.4版本（其他版本笔者未尝试）node.js安装^4.5.1`node-sass`依赖并运行`css-gen.js`
 1. 生成pdf(开发中)
 1. 部署到线上
 1. 生成访问二维码（开发中）
