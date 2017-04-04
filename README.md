@@ -4,7 +4,7 @@
 
 ![resume](http://oe8r161mt.bkt.clouddn.com/resume/resume.jpg?imageView/2/w/200/q/100)
 
-点击[这里](https://zelda.github.io/cv)可查看[Demo](https://zelda.github.io/cv)。
+点击[这里](https://htmlpreview.github.io/?https://github.com/kkxujq/Resume/blob/master/index.html)可查看[Demo](https://htmlpreview.github.io/?https://github.com/kkxujq/Resume/blob/master/index.html)。
 
 ## Introduction
 
